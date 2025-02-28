@@ -1,0 +1,137 @@
+Course Name,Course Description
+Introduction to Python Programming,"Basics of Python programming, syntax, and applications"
+Engineering Mathematics,Mathematical techniques for engineering applications
+Basics of Electrical and Electronics Engineering,Fundamentals of electrical and electronic systems
+Introduction to Data Science,"Foundations of data analysis, statistics, and visualization"
+Engineering Mechanics,Basic principles of forces and motion in engineering systems
+Soft Skills for Engineers,"Communication, teamwork, and problem-solving for engineers"
+Environmental Science and Sustainability,Environmental challenges and sustainable solutions
+Introduction to Computer-Aided Design (CAD),Basics of CAD tools for engineering design
+Data Structures and Algorithms,"Programming, Logic, and Problem Solving"
+Object-Oriented Programming with Java,Core Java concepts and OOP fundamentals
+Database Management Systems,Principles of database design and SQL
+Introduction to Cloud Computing,Basics of cloud infrastructure and services
+"Web Development with HTML, CSS, and JavaScript",Building websites with modern web technologies
+Foundations of Cybersecurity,Basics of securing systems and data
+Introduction to Machine Learning,"AI, Data Science, Algorithms"
+Version Control with Git and GitHub,Collaborative coding and version control
+Digital Circuits and Systems,Design and analysis of digital circuits
+Microprocessors and Microcontrollers,Fundamentals of embedded systems
+Signals and Systems,Introduction to signal processing and systems theory
+Embedded Systems Basics,Building and programming embedded systems
+MATLAB Programming for Engineers,Modeling and simulation using MATLAB
+Introduction to IoT,"Internet of Things, devices, and applications"
+Analog Electronics Fundamentals,Basic principles of analog circuits
+Basics of Communication Systems,Introduction to communication technologies
+Thermodynamics Basics,"Principles of energy, heat, and work"
+Fluid Mechanics,Behavior of fluids and their engineering applications
+3D Modeling with SolidWorks,3D CAD modeling and design
+Strength of Materials,Analysis of stress and deformation in materials
+Kinematics of Machines,Mechanics and motion of machines
+Basics of Robotics,Introduction to robotics and automation
+Introduction to Additive Manufacturing (3D Printing),Techniques and applications of 3D printing
+Finite Element Analysis (FEA),Numerical methods for structural analysis
+Surveying and Geomatics,Measurement and mapping techniques for civil engineering
+Basics of Structural Analysis,Analysis of structural elements and systems
+Introduction to BIM (Building Information Modeling),Digital representation of building processes
+Concrete Technology,Properties and uses of concrete in construction
+Water Resource Management,Planning and management of water resources
+Transportation Engineering Basics,Design and management of transportation systems
+GIS and Remote Sensing,Geospatial technologies for mapping and analysis
+Construction Planning and Management,Techniques for managing construction projects
+Circuit Theory Basics,Fundamentals of electrical circuits
+Control Systems Fundamentals,Basics of feedback and control systems
+Basics of Power Systems,Design and analysis of power systems
+Electrical Machines and Drives,Introduction to electrical machines and their control
+Introduction to Renewable Energy Systems,Basics of renewable energy technologies
+Digital Signal Processing,Processing of digital signals and applications
+Electromagnetic Fields and Waves,Theory of electromagnetic fields and waves
+IoT for Electrical Engineers,IoT applications in electrical engineering
+Introduction to Aerospace Structures,Basics of aerospace structural analysis
+Basics of Aerodynamics,Principles of aerodynamic forces and flow
+Space Mission Design,Planning and design of space missions
+Propulsion Systems,Introduction to propulsion technologies
+Flight Mechanics,Analysis of aircraft flight performance
+Basics of Computational Fluid Dynamics (CFD),Numerical simulation of fluid flows
+Introduction to Avionics,Electronic systems in aerospace engineering
+Satellite Communication Systems,Principles of satellite communication
+Process Engineering Fundamentals,Basics of chemical process engineering
+Introduction to Chemical Reaction Engineering,Principles of chemical reactions in reactors
+Mass Transfer Basics,Separation processes and mass transfer principles
+Industrial Safety and Hazard Management,Safety practices in chemical industries
+Petroleum Refining Basics,Basics of refining and processing petroleum
+Polymer Technology,Production and properties of polymers
+Energy Management in Process Industries,Efficient energy use in industries
+Chemical Process Simulation Using Aspen Plus,Modeling chemical processes with Aspen Plus
+Introduction to Molecular Biology,Basics of molecular biology and genetics
+Basics of Bioprocess Engineering,Biological processes in engineering applications
+Biomedical Instrumentation,Design of instruments for biomedical applications
+Introduction to Genetic Engineering,Principles and techniques of genetic engineering
+Healthcare Data Analytics,Data analysis techniques in healthcare
+Bioinformatics for Beginners,Basics of bioinformatics and computational biology
+Medical Imaging and Applications,Principles of medical imaging technologies
+Introduction to Tissue Engineering,Basics of tissue engineering and regenerative medicine
+Deep Learning with TensorFlow,Advanced deep learning concepts and TensorFlow framework
+Artificial Intelligence Foundations,Fundamentals of AI and its applications
+Cloud Architect Essentials,Core concepts of cloud architecture and deployment
+Data Science and Big Data Analytics,Handling and analyzing large-scale datasets
+DevOps Practices,Principles and tools for CI/CD pipelines
+Blockchain Basics,Fundamentals of blockchain and decentralized applications
+Mobile App Development with Flutter,Creating cross-platform mobile apps with Flutter
+Cybersecurity and Ethical Hacking,Techniques for securing systems and ethical hacking practices
+Advanced VLSI Design,Techniques for designing very-large-scale integration circuits
+Wireless Communication and 5G,Principles of wireless networks and 5G technologies
+IoT System Design,Building Internet of Things systems and applications
+Digital Image Processing,Processing and analyzing digital images
+FPGA Programming,Programming techniques for field-programmable gate arrays
+Embedded System Design with ARM Cortex,Designing embedded systems with ARM Cortex processors
+Radar Systems and Applications,Principles of radar technology and its applications
+Network-on-Chip Architecture,Design of on-chip communication systems
+Robotics and Automation Engineering,Principles of robotics and automation technologies
+HVAC Systems Design,"Design of heating, ventilation, and air conditioning systems"
+Introduction to Mechatronics,"Integration of mechanical, electronic, and control systems"
+Advanced Manufacturing Techniques,Modern manufacturing methods and technologies
+Energy Systems Engineering,Analysis and optimization of energy systems
+Automobile Dynamics,Dynamics and performance of automotive systems
+Optimization in Mechanical Design,Techniques for optimizing mechanical designs
+Wind and Solar Energy Engineering,Principles of wind and solar energy technologies
+Advanced Structural Engineering,Design and analysis of complex structural systems
+Smart Cities and Urban Planning,Technologies and planning for smart urban areas
+Advanced BIM Techniques,Advanced Building Information Modeling methods
+Sustainable Construction,Eco-friendly and sustainable construction practices
+Geotechnical Engineering Advanced Concepts,Advanced principles of geotechnical engineering
+Hydrology and Water Resource Engineering,Management and design of water resource systems
+Advanced Highway Engineering,Techniques for designing modern highways
+Smart Transportation Systems,Integration of smart technologies in transportation
+Advanced Power Systems,Design and optimization of modern power systems
+Smart Grid Technology,Technologies for smart grid implementation
+Renewable Energy Integration,Integration of renewable energy into power systems
+Power Electronics Design,Design principles of power electronic devices
+Electric Vehicle Systems,Technologies for electric and hybrid vehicles
+Advanced Control Systems,Modern control system techniques
+High Voltage Engineering,Design and analysis of high voltage systems
+IoT Applications in Electrical Engineering,IoT solutions for electrical engineering challenges
+Spacecraft Dynamics and Control,Analysis and control of spacecraft motion
+Advanced Aerodynamics,Advanced concepts in aerodynamics
+Aircraft Structures Design,Design and analysis of aircraft structures
+Orbital Mechanics,Principles of satellite orbits and motion
+Rocket Propulsion Systems,Design and analysis of rocket propulsion technologies
+UAV Technology,Unmanned Aerial Vehicle design and applications
+Spacecraft Avionics,Electronic systems for spacecraft
+Satellite System Engineering,Engineering principles of satellite systems
+Process Optimization and Simulation,Optimization of chemical processes and simulation techniques
+Advanced Thermodynamics,Advanced concepts in thermodynamics
+Chemical Plant Safety Management,Safety practices for chemical plants
+Biochemical Engineering,Engineering principles for biological processes
+Environmental Impact of Chemical Processes,Assessing and mitigating chemical process impacts
+Catalysis in Chemical Engineering,Principles and applications of catalysis
+Nanotechnology in Chemical Engineering,Applications of nanotechnology in chemical processes
+Petrochemical Process Engineering,Technologies for petrochemical production
+Biomaterials and Nanotechnology,Properties and applications of biomaterials and nanotechnology
+Gene Editing with CRISPR,Techniques and applications of CRISPR gene editing
+Biomedical Signal Processing,Processing of biomedical signals
+Drug Delivery Systems,Technologies for targeted drug delivery
+Bioinformatics Applications in Genomics,Genomic data analysis using bioinformatics tools
+Medical Devices and Diagnostics,Design and development of medical devices
+Advanced Tissue Engineering,Techniques for tissue engineering and regeneration
+Biostatistics for Biomedical Research,Statistical techniques for biomedical research
